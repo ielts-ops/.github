@@ -1,4 +1,4 @@
-# Welcome to [Your Organization] GitHub Repository
+# Welcome to the IELTS Team GitHub Repository
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Welcome to the IELTS Operations team Github! This platform serves as the central
 
 **GitHub**, on the other hand, is a web-based platform built around Git. It provides a centralized location for hosting Git repositories, offering collaboration features such as pull requests, issues, and project management tools. GitHub simplifies team workflows, facilitating seamless collaboration, code review, and integration into CI/CD pipelines. It serves as a hub for open-source projects and a secure space for version-controlled code repositories.
 
-The IELTS Operations Github is entirely private, and not visible to non-team members.
+The IELTS Operations Github is entirely private, only visible to invited members of our team.
 
 ## Getting Started with Git and GitHub
 
