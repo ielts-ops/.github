@@ -56,12 +56,14 @@ Replace "organization/repository" with the actual organization and repository na
 
 There is a lot of terminology to get used to with Git and GitHub. A save is called a `commit` - think of it like committing something to memory - and to upload that change you `push` it from your local computer to the online repository.
 
-## Still Confused?
+## Getting Started
 
 There's a Wiki here which should cover many of the basics you need to get started. We would recommend taking a look at the following articles:
 
+- [How to Create Your First Repository](https://github.com/ielts-ops/.github/wiki/How-to-Create-Your-First-Repository)
 - [Git Basics: Terms and Commands](https://github.com/ielts-ops/.github/wiki/Git-Basics:-Terms-and-Commands)
-- [How to Create Your First Repository]
 - [Committing, Pulling and Pushing: How to Save and Upload Changes]
+- [Creating and Managing Branches]
 - [Good Practices with Git and GitHub](https://github.com/ielts-ops/.github/wiki/Good-Practices-with-Git-and-Github)
-- [Contributing to Repositories]
+
+For more information and support, Percipio offers a course on Git and GitHub. You can also find more resouses on the [Additional Resources] page.
