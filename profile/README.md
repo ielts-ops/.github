@@ -42,3 +42,26 @@ After installing Git, you need to configure it with your name and email. Open th
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
+```
+
+## Cloning a Repository
+
+How do you download a repository to your local system? To fetch a respository remotely stored on GitHub, navigate to the folder you want to store it in and `clone` the repository using the following command:
+
+```bash
+git clone git@github.com:organization/repository.git
+```
+
+Replace "organization/repository" with the actual organization and repository name. This creates a copy of this repository on your computer. You can now make changes locally and save them to GitHub.
+
+There is a lot of terminology to get used to with Git and GitHub. A save is called a `commit` - think of it like committing something to memory - and to upload that change you `push` it from your local computer to the online repository.
+
+## Still Confused?
+
+There's a Wiki here which should cover many of the basics you need to get started. We would recommend taking a look at the following articles:
+
+- [Git Basics: Terms and Commands](https://github.com/ielts-ops/.github/wiki/Git-Basics:-Terms-and-Commands)
+- [How to Create Your First Repository]
+- [Committing, Pulling and Pushing: How to Save and Upload Changes]
+- [Good Practices with Git and GitHub](https://github.com/ielts-ops/.github/wiki/Good-Practices-with-Git-and-Github)
+- [Contributing to Repositories]
