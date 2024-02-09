@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the IELTS Operations team Github! This platform serves as the central hub for collaboration, version control, and code sharing within our team. This guide will help you get started with the basics, and with setting up Git and GitHub access using Anaconda.
+Welcome to the IELTS Operations team GitHub! This platform serves as the central hub for collaboration, version control, and code sharing within our team. This guide will help you get started with the basics, and with setting up Git and GitHub access using Anaconda.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the IELTS Operations team Github! This platform serves as the central
 
 **Git** is a distributed version control system that enables multiple contributors to work on a project simultaneously, tracking changes and managing collaboration efficiently. It allows developers to create branches, merge changes, and maintain a complete history of project modifications.
 
-**GitHub**, on the other hand, is a web-based platform built around Git. It provides a centralized location for hosting Git repositories, offering collaboration features such as pull requests, issues, and project management tools. GitHub simplifies team workflows, facilitating seamless collaboration, code review, and integration into CI/CD pipelines. It serves as a hub for open-source projects and a secure space for version-controlled code repositories.
+**GitHub**, on the other hand, is a web-based platform built around Git. It provides a centralized location for hosting Git repositories, offering collaboration features such as pull requests, issues, and project management tools. GitHub simplifies team workflows, facilitating seamless collaboration, code review, and integration into continuous integration / continuous delivery pipelines (CI/CD). It serves as a hub for open-source projects and a secure space for version-controlled code repositories.
 
 The IELTS Operations Github is entirely private, only visible to invited members of our team.
 
@@ -29,7 +29,8 @@ Once your GitHub account is ready, you can proceed to set up Git on your local m
 To install Git using Anaconda, follow these steps:
 
 1. Open the Anaconda Command Line or Anaconda Navigator.
-2. Install Git: ` conda install anaconda::git`
+2. Make sure that your Conda is up to date by running the command `conda update -n base conda`
+3. Install Git: ` conda install anaconda::git`
 
 This will install Git globally on your system.
 
