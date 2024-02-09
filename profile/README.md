@@ -29,11 +29,9 @@ Once your GitHub account is ready, you can proceed to set up Git on your local m
 To install Git globally using Anaconda, follow these steps:
 
 1. Open the Anaconda Command Line or Anaconda Navigator.
-2. Create a new environment (optional but recommended): `conda create --name mygitenv`
-3. Activate the environment: `conda activate mygitenv`
-4. Install Git: ` conda install anaconda::git`
+2. Install Git: ` conda install anaconda::git`
 
-This will install Git globally within the specified environment.
+This will install Git globally on your system.
 
 ## Configuring Git
 
