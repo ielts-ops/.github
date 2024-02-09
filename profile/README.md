@@ -26,7 +26,7 @@ Once your GitHub account is ready, you can proceed to set up Git on your local m
 
 ## Installing Git with Anaconda
 
-To install Git globally using Anaconda, follow these steps:
+To install Git using Anaconda, follow these steps:
 
 1. Open the Anaconda Command Line or Anaconda Navigator.
 2. Install Git: ` conda install anaconda::git`
