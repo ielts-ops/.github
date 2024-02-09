@@ -43,6 +43,22 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
+This doesn't necessarily need to be your GitHub username and email - you will be prompted for your credentials later in the process.
+
+## Getting Started
+
+There's a Wiki here which should cover many of the basics you need to get started. We would recommend taking a look at the following articles:
+
+- [Introduction: How Git & GitHub Work]
+- [How to Create Your First Repository](https://github.com/ielts-ops/.github/wiki/How-to-Create-Your-First-Repository)
+- [Git Basics: Terms and Commands](https://github.com/ielts-ops/.github/wiki/Git-Basics:-Terms-and-Commands)
+- [Committing, Pulling and Pushing: How to Save and Upload Changes]
+- [Working on an Existing Repository: Cloning](
+- [Creating and Managing Branches]
+- [Good Practices with Git and GitHub](https://github.com/ielts-ops/.github/wiki/Good-Practices-with-Git-and-Github)
+
+For more information and support, Percipio offers a course on Git and GitHub. You can also find more resouses on the [Additional Resources] page.
+
 ## Cloning a Repository
 
 How do you download a repository to your local system? To fetch a respository remotely stored on GitHub, navigate to the folder you want to store it in and `clone` the repository using the following command:
@@ -54,15 +70,3 @@ git clone git@github.com:organization/repository.git
 Replace "organization/repository" with the actual organization and repository name. This creates a copy of this repository on your computer. You can now make changes locally and save them to GitHub.
 
 There is a lot of terminology to get used to with Git and GitHub. A save is called a `commit` - think of it like committing something to memory - and to upload that change you `push` it from your local computer to the online repository.
-
-## Getting Started
-
-There's a Wiki here which should cover many of the basics you need to get started. We would recommend taking a look at the following articles:
-
-- [How to Create Your First Repository](https://github.com/ielts-ops/.github/wiki/How-to-Create-Your-First-Repository)
-- [Git Basics: Terms and Commands](https://github.com/ielts-ops/.github/wiki/Git-Basics:-Terms-and-Commands)
-- [Committing, Pulling and Pushing: How to Save and Upload Changes]
-- [Creating and Managing Branches]
-- [Good Practices with Git and GitHub](https://github.com/ielts-ops/.github/wiki/Good-Practices-with-Git-and-Github)
-
-For more information and support, Percipio offers a course on Git and GitHub. You can also find more resouses on the [Additional Resources] page.
