@@ -12,7 +12,7 @@ Welcome to the IELTS Operations team GitHub! This platform serves as the central
 
 ## What is Git and GitHub?
 
-**Git** is a distributed version control system that enables multiple contributors to work on a project simultaneously, tracking changes and managing collaboration efficiently. It allows developers to create branches, merge changes, and maintain a complete history of project modifications.
+**Git** is a distributed version control system that enables multiple contributors to work on a project simultaneously, tracking changes and managing collaboration efficiently. It allows developers to create branches, merge changes, and maintain a complete history of project modifications. It is installed and used through the Command Line, though there is a graphic interface edition available.
 
 **GitHub**, on the other hand, is a web-based platform built around Git. It provides a centralized location for hosting Git repositories, offering collaboration features such as pull requests, issues, and project management tools. GitHub simplifies team workflows, facilitating seamless collaboration, code review, and integration into continuous integration / continuous delivery pipelines (CI/CD). It serves as a hub for open-source projects and a secure space for version-controlled code repositories.
 
@@ -47,26 +47,14 @@ This doesn't necessarily need to be your GitHub username and email - you will be
 
 ## Getting Started
 
-There's a Wiki here which should cover many of the basics you need to get started. We would recommend taking a look at the following articles:
+There's a Wiki here which should cover many of the basics you need to get started. We would recommend taking a look at the following articles in order:
 
 - [Introduction: How Git & GitHub Work]
-- [How to Create Your First Repository](https://github.com/ielts-ops/.github/wiki/How-to-Create-Your-First-Repository)
 - [Git Basics: Terms and Commands](https://github.com/ielts-ops/.github/wiki/Git-Basics:-Terms-and-Commands)
+- [How to Create Your First Repository](https://github.com/ielts-ops/.github/wiki/How-to-Create-Your-First-Repository)
 - [Committing, Pulling and Pushing: How to Save and Upload Changes]
-- [Working on an Existing Repository: Cloning](
+- [Working on an Existing Repository: Cloning](https://github.com/ielts-ops/.github/wiki/Working-on-an-Existing-Repository:-Cloning) (work in progress, wiki article not complete!!)
 - [Creating and Managing Branches]
 - [Good Practices with Git and GitHub](https://github.com/ielts-ops/.github/wiki/Good-Practices-with-Git-and-Github)
 
-For more information and support, Percipio offers a course on Git and GitHub. You can also find more resouses on the [Additional Resources] page.
-
-## Cloning a Repository
-
-How do you download a repository to your local system? To fetch a respository remotely stored on GitHub, navigate to the folder you want to store it in and `clone` the repository using the following command:
-
-```bash
-git clone git@github.com:organization/repository.git
-```
-
-Replace "organization/repository" with the actual organization and repository name. This creates a copy of this repository on your computer. You can now make changes locally and save them to GitHub.
-
-There is a lot of terminology to get used to with Git and GitHub. A save is called a `commit` - think of it like committing something to memory - and to upload that change you `push` it from your local computer to the online repository.
+For more information and support, Percipio offers a course on Git and GitHub. You can also find more resouses on the [Additional Resources] page, and many tutorials on YouTube which provide a good intro to Git, GitHub and version control.
