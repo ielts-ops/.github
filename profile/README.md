@@ -49,7 +49,7 @@ This doesn't necessarily need to be your GitHub username and email - you will be
 
 There's a Wiki here which should cover many of the basics you need to get started. We would recommend taking a look at the following articles in order:
 
-- [Introduction: How Git & GitHub Work]
+- [Introduction: How Git & GitHub Work](https://github.com/ielts-ops/.github/wiki/How-Git-and-Github-Work)
 - [Git Basics: Terms and Commands](https://github.com/ielts-ops/.github/wiki/Git-Basics:-Terms-and-Commands)
 - [How to Create Your First Repository](https://github.com/ielts-ops/.github/wiki/How-to-Create-Your-First-Repository)
 - [Committing, Pulling and Pushing: How to Save and Upload Changes]
