@@ -52,9 +52,8 @@ There's a Wiki here which should cover many of the basics you need to get starte
 - [Introduction: How Git & GitHub Work](https://github.com/ielts-ops/.github/wiki/How-Git-and-Github-Work)
 - [Git Basics: Terms and Commands](https://github.com/ielts-ops/.github/wiki/Git-Basics:-Terms-and-Commands)
 - [How to Create Your First Repository](https://github.com/ielts-ops/.github/wiki/How-to-Create-Your-First-Repository)
-- [Committing, Pulling and Pushing: How to Save and Upload Changes]
-- [Working on an Existing Repository: Cloning](https://github.com/ielts-ops/.github/wiki/Working-on-an-Existing-Repository:-Cloning) (work in progress, wiki article not complete!!)
-- [Creating and Managing Branches]
+- [Everyday Working with Git: Cheatsheet](https://github.com/ielts-ops/.github/wiki/Working-with-Git:-Cheatsheet)
+- [Pull Requests](https://github.com/ielts-ops/.github/wiki/Pull-Requests)
 - [Good Practices with Git and GitHub](https://github.com/ielts-ops/.github/wiki/Good-Practices-with-Git-and-Github)
 
 For more information and support, Percipio offers a course on Git and GitHub. You can also find more resouses on the [Additional Resources] page, and many tutorials on YouTube which provide a good intro to Git, GitHub and version control.
